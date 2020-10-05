@@ -56,3 +56,7 @@ Para la eliminación de las filas en la misma avance_nivel() lo que se hace es e
 ### Game over.
 Como lo hace la función avance_nivel(), la función game_over() está constantemente evaluando el estado del tablero, pero más específicamente en la primer fila, cuando esta función detecta que se ha guardado una figura en esta fila la función inmediatamente pone pausa a la función draw() dando fin al juego.
 
+## Referencias .
+1. [Juego guia tomado como referencia.](https://tetris.com/play-tetris)
+2. [informacion adicional sobre el juego.](https://es.wikipedia.org/wiki/Tetris)
+3. [Referencia de processing.](https://processing.org/reference/)
